@@ -27,7 +27,10 @@
 
 ## 🧑‍💻 About Me
 
-I am a student at Madiun State Polytechnic, majoring in Information Technology . I am a graduate of Madiun State Senior High School, specializing in Analytical Chemistry.
+I am a graduate of SMK Negeri 3 Madiun, where I studied Analytical Chemistry and developed a strong foundation in laboratory work, analytical thinking, accuracy, and problem-solving.
+Currently, I am pursuing my studies at Politeknik Negeri Madiun, majoring in Information Technology (D3). My current studies allow me to explore technology, programming, information systems, and digital problem-solving while developing new technical and interpersonal skills.
+My background in Analytical Chemistry has taught me to be detail-oriented, disciplined, and careful in solving problems. I am now eager to combine these skills with my growing knowledge of Information Technology.
+I am passionate about learning new things, gaining experience, and continuously improving myself. I am open to opportunities that allow me to develop my skills, gain valuable experience, and contribute to meaningful projects in the field of technology.
 ---
 
 ## 🛠️ Technologies & Tools
